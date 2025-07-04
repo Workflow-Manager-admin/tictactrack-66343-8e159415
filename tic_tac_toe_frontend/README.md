@@ -4,7 +4,10 @@ This project provides a minimal React template with a clean, modern UI and minim
 
 ## Features
 
-- **Lightweight**: No heavy UI frameworks - uses only vanilla CSS and React
+- **Login/Registration**: Secure authentication for players
+- **Tic Tac Toe Game Board**: Play against another player in real time
+- **Live Game State**: Automatic refresh after each move
+- **Leaderboard**: View top players and game history
 - **Modern UI**: Clean, responsive design with KAVIA brand styling
 - **Fast**: Minimal dependencies for quick loading times
 - **Simple**: Easy to understand and modify
